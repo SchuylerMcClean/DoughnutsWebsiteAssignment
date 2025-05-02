@@ -1,2 +1,3 @@
 # DoughnutsWebsiteAssignment
-Website assignment from web design university course from March 2025.
+
+Contains files from a doughnut website assignment from my web design course in university.
